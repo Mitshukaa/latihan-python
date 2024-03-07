@@ -1,0 +1,31 @@
+{"Nama pelanggan": "mini", "orders": [{"item": "Ikan Nila", "porsi": 2, "harga": 40000}, {"item": "Jus Alpukat", "porsi": 2, "harga": 22000}], "total_harga": 62000}
+{"Nama pelanggan": "adm,wo", "orders": [{"item": "Mie Goreng", "porsi": 3, "harga": 36000}], "total_harga": 36000}
+{"Nama pelanggan": "a", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "MINI", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "mini", "orders": [{"item": "Rendang", "porsi": 10, "harga": 250000}], "total_harga": 250000}
+{"Nama Pelanggan": "aa", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "ww", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "a", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "s", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "acdd", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "adwkjdi", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000}
+{"Nama Pelanggan": "admjwi", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 20000, "kembalian": 5000}
+{"Nama Pelanggan": "dawd", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 1000, "kembalian": -14000}
+{"Nama Pelanggan": "adwdawkd", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 100000, "kembalian": 85000}
+{"Nama Pelanggan": "adwdwa", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 100000, "kembalian": 85000, "kode_transaksi": "03", "tanggal_beli": "29-01-2024"}
+{"Nama Pelanggan": "dawd", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 1000000, "kembalian": 985000, "kode_transaksi": "2024129114715", "tanggal_beli": "29-01-2024"}
+{"Nama Pelanggan": "asing", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 1000000, "kembalian": 985000, "kode_transaksi": "2024129114944", "tanggal_beli": "2024-1-29 11:49:44"}
+{"Nama Pelanggan": "ASDASD", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 200000, "kembalian": 185000, "kode_transaksi": "2024129115053", "tanggal_beli": "2024-1-29 11:50:53"}
+{"Nama Pelanggan": "asing", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 200000, "kembalian": 185000, "kode_transaksi": "2024129115125", "tanggal_beli": "2024-1-29 11:51:25"}
+{"Nama Pelanggan": "& C:/Users/tki-00/AppData/Local/Programs/Python/Python312/python.exe c:/Users/tki-00/Documents/anggerr/jobsheet/Kasir.py", "orders": [], "total_harga": 0, "uang_bayar": 0, "kembalian": 0, "kode_transaksi": "2024129115524", "tanggal_beli": "2024-1-29 11:55:24"}
+{"Nama Pelanggan": "0", "orders": [], "total_harga": 0, "uang_bayar": 0, "kembalian": 0, "kode_transaksi": "202412911582", "tanggal_beli": "2024-1-29 11:58:2"}
+{"Nama Pelanggan": "apasih jawa", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}, {"item": "Jus Alpukat", "porsi": 1, "harga": 11000}, {"item": "Cumi", "porsi": 1, "harga": 20000}], "total_harga": 46000, "uang_bayar": 300000, "kembalian": 254000, "kode_transaksi": "2024129131659", "tanggal_beli": "2024-1-29 13:16:59"}
+{"Nama Pelanggan": "0", "orders": [], "total_harga": 0, "uang_bayar": 0, "kembalian": 0, "kode_transaksi": "202412913197", "tanggal_beli": "2024-1-29 13:19:7"}
+{"Nama Pelanggan": "jdaiwdjawidja", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}, {"item": "Rendang", "porsi": 1, "harga": 25000}], "total_harga": 40000, "uang_bayar": 340000, "kembalian": 300000, "kode_transaksi": "2024129132024", "tanggal_beli": "2024-1-29 13:20:24"}
+{"Nama Pelanggan": "Ferdinand Oktaviano", "orders": [{"item": "Mie Goreng", "porsi": 8, "harga": 96000}, {"item": "Lobster", "porsi": 5, "harga": 200000}], "total_harga": 296000, "uang_bayar": 500000, "kembalian": 204000, "kode_transaksi": "2024129132140", "tanggal_beli": "2024-1-29 13:21:40"}
+{"Nama Pelanggan": "viano", "orders": [{"item": "Cumi", "porsi": 9, "harga": 180000}, {"item": "Nasi Goreng", "porsi": 3, "harga": 45000}], "total_harga": 225000, "uang_bayar": 300000, "kembalian": 75000, "kode_transaksi": "202412913232", "tanggal_beli": "2024-1-29 13:23:2"}
+{"Nama Pelanggan": "adwda", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}, {"item": "Rendang", "porsi": 7, "harga": 175000}], "total_harga": 190000, "uang_bayar": 900000, "kembalian": 710000, "kode_transaksi": "202412913244", "tanggal_beli": "2024-1-29 13:24:4"}
+{"Nama Pelanggan": "beby", "orders": [{"item": "Jus Anggur", "porsi": 20, "harga": 200000}], "total_harga": 200000, "uang_bayar": 900000, "kembalian": 700000, "kode_transaksi": "2024129132517", "tanggal_beli": "2024-1-29 13:25:17"}
+{"Nama Pelanggan": "zcs", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 900000, "kembalian": 885000, "kode_transaksi": "202412913266", "tanggal_beli": "2024-1-29 13:26:6"}
+{"Nama Pelanggan": "kodawkd", "orders": [{"item": "Nasi Goreng", "porsi": 1, "harga": 15000}], "total_harga": 15000, "uang_bayar": 90000, "kembalian": 75000, "kode_transaksi": "2024129132638", "tanggal_beli": "2024-1-29 13:26:38"}
+{"Nama Pelanggan": "qweqeqe", "orders": [{"item": "Soto Ayam", "porsi": 2, "harga": 20000}], "total_harga": 20000, "uang_bayar": 20000, "kembalian": 0, "kode_transaksi": "202413175655", "tanggal_beli": "2024-1-31 7:56:55"}
